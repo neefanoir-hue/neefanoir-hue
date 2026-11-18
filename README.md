@@ -29,9 +29,24 @@ I'm a passionate developer who enjoys creating modern, responsive and user-frien
 
 📂 MY PROJECTS
 
-- Adlat Electrician Website
-- Business Websites
-- Personal Portfolio Projects
+## 🚀 FEATURED PROJECTS
+
+### 1. Adlat Electrician Website
+A business website designed for an electrician service.
+
+**Technology:** HTML, CSS
+
+### 2. HAH Dev Portfolio
+A personal developer portfolio showcasing my skills,
+services and web development experience.
+
+**Technology:** HTML, CSS, JavaScript
+
+### 3. Web Applications
+Developing interactive web applications using modern
+frontend and backend technologies.
+
+**Technology:** React.js, Node.js, JavaScript
 
 🎯 MY GOAL
 
