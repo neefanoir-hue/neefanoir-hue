@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm HAH Dev!
 
-<!--
-**neefanoir-hue/neefanoir-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who enjoys creating modern, responsive and user-friendly websites.
+
+💻 TECH STACK
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+
+🚀 WHAT I DO
+
+- Website Development
+- Responsive Web Design
+- Landing Page Development
+- Website Redesign
+- Frontend Development
+
+📂 MY PROJECTS
+
+- Adlat Electrician Website
+- Business Websites
+- Personal Portfolio Projects
+
+🎯 MY GOAL
+
+To build innovative digital experiences, improve my development skills and collaborate on exciting projects.
+
+🤝 LET'S CONNECT
+
+- GitHub: https://github.com/neefanoir-hue
+
+---
+
+HAH Dev | DEVcloud712
